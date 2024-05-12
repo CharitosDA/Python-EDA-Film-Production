@@ -25,17 +25,5 @@ This project performs a comprehensive exploratory data analysis (EDA) on a film 
 - **Diverse Metrics**: Evaluated ROI, profitability, popularity, and ratings, providing a holistic view of the industry.
 - **Pattern Recognition**: Identified significant trends and relationships across time periods and dimensions.
 
-### Thoughtful Visualizations
-- **Effective Storytelling**: Presented data in accessible visual formats, enabling quick insight extraction for decision-makers.
-- **Visual Clarity**: Designed color schemes and layouts enhance data interpretation.
-
-### Well-Organized Workflow
-- **Robust Data Handling**: Managed and manipulated large datasets efficiently, ensuring high data quality.
-- **Feature Engineering**: Created new data features to capture financial success and market dynamics accurately.
-
-### Insightful Findings
-- **Strategic Insights**: Recommendations offer optimal release timing and genre focus.
-- **Business Impact**: Trends and patterns help shape future investments and marketing strategies.
-
 ## Conclusion
 This analysis reveals past and current trends in the film industry, providing a foundation for predictive and prescriptive analytics. Stakeholders can use these insights to strategize their production, marketing, and release decisions more effectively.
